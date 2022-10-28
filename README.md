@@ -1,2 +1,2 @@
-# Testting-Project
-My first Unity project
+# Testing-Project
+ The first Unity project
